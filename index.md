@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to inkrealm's v-Git
 
-You can use the [editor on GitHub](https://github.com/inkrealm/v/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You will find contact information 
+within the profile page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p style="float:right"><img src="https://64.media.tumblr.com/c89cf0b0d50c61a8e9cedc27a0c4c100/93dbb76ea7cb983e-a2/s400x600/0c8c887db47b1f97c235387f271a357273e23003.gifv" alt="inky" /></p>
 
-### Markdown
+<p>And of course hmu @ www.inkrealm.info
+soon to be www.inkrealm.cloud</p>
+##
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link]() and ![Image]()
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inkrealm/v/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*
