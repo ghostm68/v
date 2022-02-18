@@ -4,10 +4,10 @@
 ![busy](https://opengraph.githubassets.com/50bac31a39ca3aab8c74138c38e85cf1025a1037b5bae3e515c4f7e300981928/inkrealm/inkrealm)
 	<h2>writer</h2>
 	<p>musician, visual artist</p>
+##video
 <a data-fancybox href="https://m.youtube.com/watch?v=vmGMwRm6_Jg">
    mariia @ prada 
 </a>
-
 <Li>
 
 You will find contact information 
