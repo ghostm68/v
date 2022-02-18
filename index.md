@@ -5,7 +5,9 @@
 	<h2>writer</h2>
 	<p>musician, visual artist</p>
 ##video
-<a data-fancybox href="https://m.youtube.com/watch?v=vmGMwRm6_Jg">
+
+
+ <a data-fancybox href="https://m.youtube.com/watch?v=vmGMwRm6_Jg">
    mariia @ prada 
 </a>
 <Li>
