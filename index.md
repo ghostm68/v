@@ -5,11 +5,8 @@
 	<h2>writer</h2>
 	<p>musician, visual artist</p>
 ##video
-
-
- <a data-fancybox href="https://m.youtube.com/watch?v=vmGMwRm6_Jg">
-   mariia @ prada 
-</a>
+download the cool prada six second glitch ad :
+<a href="https://github.com/inkrealm/inkrealm/blob/a576d1ad138753b3c97bcfea7815565e1c7c1141/yt1s.com%20-%20PRADA%20CANDY%20%20RETHINK%20REALITY%20%20GLITCH_360p.mp4">@view-raw</a>
 <Li>
 
 You will find contact information 
